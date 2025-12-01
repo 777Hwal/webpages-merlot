@@ -1,6 +1,7 @@
 ---
 layout: default
 ---
+A Lot is changed
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
