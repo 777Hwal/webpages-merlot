@@ -2,6 +2,7 @@
 layout: default
 ---
 A Lot is added door hans
+Die is goed 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
